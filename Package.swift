@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeepvueFP",
-            url: "https://d37t6u7aogmv50.cloudfront.net/ios/DeepvueFP/1.0.3/DeepvueFP.xcframework.zip",
-            checksum: "17f132b1077f3124bfc5f932cc5fa82df3bef9994566e30d0da2ab506cfc14b9"
+            url: "https://d37t6u7aogmv50.cloudfront.net/ios/DeepvueFP/1.0.4/DeepvueFP.xcframework.zip",
+            checksum: "a4995311f2790df4280643ca9f97053be4e0ddb12786fc2b0ad38a0db9c358ed"
         )
     ]
 )

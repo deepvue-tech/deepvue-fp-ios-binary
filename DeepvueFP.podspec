@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DeepvueFP"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "Deepvue native iOS fingerprinting and device-risk SDK."
   s.description  = <<-DESC
     Native iOS SDK for the Deepvue mobile fingerprinting pipeline.
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/deepvue-tech/deepvue-fp-ios-binary"
   s.license      = { :type => "Proprietary", :text => "Copyright Deepvue. All rights reserved." }
   s.author       = { "Deepvue" => "engineering@deepvue.tech" }
-  s.source       = { :http => "https://d37t6u7aogmv50.cloudfront.net/ios/DeepvueFP/1.0.3/DeepvueFP.xcframework.zip", :sha256 => "17f132b1077f3124bfc5f932cc5fa82df3bef9994566e30d0da2ab506cfc14b9" }
+  s.source       = { :http => "https://d37t6u7aogmv50.cloudfront.net/ios/DeepvueFP/1.0.4/DeepvueFP.xcframework.zip", :sha256 => "a4995311f2790df4280643ca9f97053be4e0ddb12786fc2b0ad38a0db9c358ed" }
 
   s.platforms    = { :ios => "15.0" }
   s.vendored_frameworks = "DeepvueFP.xcframework"
